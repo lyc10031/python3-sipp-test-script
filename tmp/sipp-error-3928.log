@@ -1,0 +1,109 @@
+sipp: The following events occured:
+2019-03-25	15:41:19.240202	1553499679.240202: Aborting call on unexpected message for Call-Id '4-3935@172.16.80.142': while expecting '200' (index 4), received 'SIP/2.0 503 Service Unavailable
+Via: SIP/2.0/UDP 172.16.80.142:5060;branch=z9hG4bK-3935-4-0;received=172.16.80.142;rport=5060
+From: "8001"<sip:8001@172.16.8.163:5060>;tag=3935SIPpTagInvite4
+To: <sip:8001@172.16.8.163:5060>;tag=as1d8d4465
+Call-ID: 4-3935@172.16.80.142
+CSeq: 1 INVITE
+Server: VoxStack Wireless Gateway
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2019-03-25	15:41:19.574240	1553499679.574240: Aborting call on unexpected message for Call-Id '5-3935@172.16.80.142': while expecting '200' (index 4), received 'SIP/2.0 503 Service Unavailable
+Via: SIP/2.0/UDP 172.16.80.142:5060;branch=z9hG4bK-3935-5-0;received=172.16.80.142;rport=5060
+From: "8001"<sip:8001@172.16.8.163:5060>;tag=3935SIPpTagInvite5
+To: <sip:8001@172.16.8.163:5060>;tag=as5b1640b0
+Call-ID: 5-3935@172.16.80.142
+CSeq: 1 INVITE
+Server: VoxStack Wireless Gateway
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2019-03-25	15:41:19.907487	1553499679.907487: Aborting call on unexpected message for Call-Id '6-3935@172.16.80.142': while expecting '200' (index 4), received 'SIP/2.0 503 Service Unavailable
+Via: SIP/2.0/UDP 172.16.80.142:5060;branch=z9hG4bK-3935-6-0;received=172.16.80.142;rport=5060
+From: "8001"<sip:8001@172.16.8.163:5060>;tag=3935SIPpTagInvite6
+To: <sip:8001@172.16.8.163:5060>;tag=as6020d40c
+Call-ID: 6-3935@172.16.80.142
+CSeq: 1 INVITE
+Server: VoxStack Wireless Gateway
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2019-03-25	15:41:20.245246	1553499680.245246: Aborting call on unexpected message for Call-Id '7-3935@172.16.80.142': while expecting '200' (index 4), received 'SIP/2.0 503 Service Unavailable
+Via: SIP/2.0/UDP 172.16.80.142:5060;branch=z9hG4bK-3935-7-0;received=172.16.80.142;rport=5060
+From: "8001"<sip:8001@172.16.8.163:5060>;tag=3935SIPpTagInvite7
+To: <sip:8001@172.16.8.163:5060>;tag=as6d356702
+Call-ID: 7-3935@172.16.80.142
+CSeq: 1 INVITE
+Server: VoxStack Wireless Gateway
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2019-03-25	15:41:20.579441	1553499680.579441: Aborting call on unexpected message for Call-Id '8-3935@172.16.80.142': while expecting '200' (index 4), received 'SIP/2.0 503 Service Unavailable
+Via: SIP/2.0/UDP 172.16.80.142:5060;branch=z9hG4bK-3935-8-0;received=172.16.80.142;rport=5060
+From: "8001"<sip:8001@172.16.8.163:5060>;tag=3935SIPpTagInvite8
+To: <sip:8001@172.16.8.163:5060>;tag=as38adfbe9
+Call-ID: 8-3935@172.16.80.142
+CSeq: 1 INVITE
+Server: VoxStack Wireless Gateway
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2019-03-25	15:41:20.926954	1553499680.926954: Aborting call on unexpected message for Call-Id '9-3935@172.16.80.142': while expecting '200' (index 4), received 'SIP/2.0 503 Service Unavailable
+Via: SIP/2.0/UDP 172.16.80.142:5060;branch=z9hG4bK-3935-9-0;received=172.16.80.142;rport=5060
+From: "8001"<sip:8001@172.16.8.163:5060>;tag=3935SIPpTagInvite9
+To: <sip:8001@172.16.8.163:5060>;tag=as77c8b21e
+Call-ID: 9-3935@172.16.80.142
+CSeq: 1 INVITE
+Server: VoxStack Wireless Gateway
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2019-03-25	15:41:21.253316	1553499681.253316: Aborting call on unexpected message for Call-Id '10-3935@172.16.80.142': while expecting '200' (index 4), received 'SIP/2.0 503 Service Unavailable
+Via: SIP/2.0/UDP 172.16.80.142:5060;branch=z9hG4bK-3935-10-0;received=172.16.80.142;rport=5060
+From: "8001"<sip:8001@172.16.8.163:5060>;tag=3935SIPpTagInvite10
+To: <sip:8001@172.16.8.163:5060>;tag=as570b0c2d
+Call-ID: 10-3935@172.16.80.142
+CSeq: 1 INVITE
+Server: VoxStack Wireless Gateway
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2019-03-25	15:41:21.571984	1553499681.571984: Aborting call on unexpected message for Call-Id '11-3935@172.16.80.142': while expecting '200' (index 4), received 'SIP/2.0 503 Service Unavailable
+Via: SIP/2.0/UDP 172.16.80.142:5060;branch=z9hG4bK-3935-11-0;received=172.16.80.142;rport=5060
+From: "8001"<sip:8001@172.16.8.163:5060>;tag=3935SIPpTagInvite11
+To: <sip:8001@172.16.8.163:5060>;tag=as1078607a
+Call-ID: 11-3935@172.16.80.142
+CSeq: 1 INVITE
+Server: VoxStack Wireless Gateway
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
+2019-03-25	15:41:21.907838	1553499681.907838: Aborting call on unexpected message for Call-Id '12-3935@172.16.80.142': while expecting '200' (index 4), received 'SIP/2.0 503 Service Unavailable
+Via: SIP/2.0/UDP 172.16.80.142:5060;branch=z9hG4bK-3935-12-0;received=172.16.80.142;rport=5060
+From: "8001"<sip:8001@172.16.8.163:5060>;tag=3935SIPpTagInvite12
+To: <sip:8001@172.16.8.163:5060>;tag=as2c650fea
+Call-ID: 12-3935@172.16.80.142
+CSeq: 1 INVITE
+Server: VoxStack Wireless Gateway
+Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH
+Supported: replaces, timer
+Content-Length: 0
+
+'.
